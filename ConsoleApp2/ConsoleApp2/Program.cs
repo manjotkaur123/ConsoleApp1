@@ -59,7 +59,6 @@ namespace ConsoleApp2
 
             }
             Console.WriteLine("Total words of sea and fare :" + ABC);
-
         }
         public void Word()
         {
